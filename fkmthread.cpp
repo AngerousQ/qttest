@@ -1,3 +1,4 @@
+//5555555555555555555
 #include "fkmthread.h"
 
 FKmThread::FKmThread(QThread *parent) : QThread(parent)
