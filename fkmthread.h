@@ -1,7 +1,6 @@
-////888888888888888888888888888
+////868686686
 #ifndef FKMTHREAD_H
 #define FKMTHREAD_H
-
 #include <QObject>
 #include <QDebug>
 #include <QThread>
